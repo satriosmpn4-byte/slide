@@ -91,14 +91,16 @@ body {
 
 .judul h1 {
     font-weight: 150;
+    margin-bottom: 10px;
 }
 
 .judul p {
     font-size: 20px;
+    margin:0;
 }
 
 .btn-container {
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 .btn {
@@ -135,6 +137,7 @@ body {
 .pr-title h1 {
     font-size: 65px;
     margin-bottom: 2px;
+    
 }
 
 .pr-title cite {
