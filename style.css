@@ -79,6 +79,20 @@ body {
     font-size: 30px;
 }
 
+.Venture {
+    color: rgba(255, 0, 128, 1);
+    font-weight: 300;
+}
+
+.Sky {
+    color: #ffff;
+    font-weight: 450;
+}
+
+.judul h1 {
+    font-weight: 150;
+}
+
 .judul p {
     font-size: 20px;
 }
